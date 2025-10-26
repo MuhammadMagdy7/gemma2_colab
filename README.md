@@ -1,4 +1,4 @@
-# Run Ollama Server (simple English)
+# Run Ollama Server 
 
 This file explains the run_ollama_server.ipynb notebook in simple English and gives clear steps to install and run Ollama in Google Colab.
 
